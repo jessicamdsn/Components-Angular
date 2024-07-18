@@ -1,0 +1,22 @@
+.swiper{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 250px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: none;
+}
+button:hover{
+    scale: 105%;
+}
+img{
+    width: 250px;
+    height: 200px;
+} 

@@ -1,0 +1,18 @@
+<swiper-container class="swiper" slides-per-view="4.4" loop="true"  navigation="true" centered-slides="true" >
+    <swiper-slide *ngFor="let slide of slides; let i = index" class="slide">
+      <button>
+        <img [src]="slide.img" alt="Slide Image" width="100%">
+        <p >{{slide.name}}</p>
+      </button>
+
+    </swiper-slide>
+</swiper-container>
+<br>
+
+
+<!-- baixar o swiper:
+npm install swiper
+
+tem q colocar isso no main.ts:
+import { register } from 'swiper/element/bundle';
+register(); -->
