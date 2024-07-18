@@ -5,11 +5,11 @@ Bem-vindo ao repositório de projetos Angular! Este repositório contém diverso
 
 ## 📌 Conteúdo
 
-1. [Gráficos](#graficos)
-2. [Carrossel](#carrossel)
-3. [Ciclo de Vida](#ciclo-de-vida)
-4. [Diretivas](#diretivas)
-5. [Rotas](#rotas)
+1. [Gráficos](##graficos)
+2. [Carrossel](##carrossel)
+3. [Ciclo de Vida](##ciclo-de-vida)
+4. [Diretivas](##diretivas)
+5. [Rotas](##rotas)
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
